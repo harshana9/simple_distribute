@@ -1,0 +1,1 @@
+version iText7-Core-7.1.13-only-jars
